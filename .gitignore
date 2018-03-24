@@ -1,0 +1,11 @@
+# binaries
+bin/composer/*
+bin/git/*
+bin/php/*
+
+# misc tools
+tool/**/*
+
+# composer vendors
+vendor/*
+

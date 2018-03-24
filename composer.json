@@ -1,0 +1,28 @@
+{
+    "name"        : "froggdev/dev",
+	
+    "description" : "Common third-party tools storage folder",
+	
+    "type"        : "library",
+	
+    "license"     : "none",
+	
+    "authors"     :
+    [
+        {
+            "name": "Frogg",
+            "email": "admin@frogg.fr"
+        }
+    ],
+	
+    "minimum-stability": "dev",
+
+    "require": {
+		"pdepend/pdepend"             : "@stable",
+        "squizlabs/php_codesniffer"   : "@stable",
+        "phpmd/phpmd"                 : "@stable",
+		"sebastian/phpcpd"            : "@stable",
+		"phpdocumentor/phpdocumentor" : "@stable",
+		"phpmetrics/phpmetrics"       : "@stable"
+    }
+}
