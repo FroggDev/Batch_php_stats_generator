@@ -34,6 +34,7 @@ dev/
 ```
 bin/
 +-- add2path.bat
+¦
 +-- node/
 ¦   +-- npm
 ¦
