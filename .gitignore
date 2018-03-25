@@ -1,11 +1,12 @@
 # binaries
-bin/composer/*
-bin/git/*
-bin/php/*
+bin/**/*
 
 # misc tools
 tool/**/*
 
 # composer vendors
 vendor/*
+
+# other
+_not_used/*
 
