@@ -13,8 +13,8 @@ The goal is to have :
 
 I choose to use DEV composer component but it can be change in composer.json
 
-more information on composer :  https://tool.frogg.fr/composer
-more information on phpSotrm :  https://tool.frogg.fr/phpStorm
+* more information on composer :  https://tool.frogg.fr/composer
+* more information on phpSotrm :  https://tool.frogg.fr/phpStorm
 
 
 # folders structure
@@ -34,23 +34,24 @@ dev/
 ```
 bin/
 +-- add2path.bat
+Â¦
 +-- node/
-¦   +-- npm
-¦
+Â¦   +-- npm
+Â¦
 +--ruby/
-¦   +-- bin/
-¦       +-- gem
-¦
+Â¦   +-- bin/
+Â¦       +-- gem
+Â¦
 +-- composer/
-¦   +-- composer.phar
-¦   +-- composer.bat
-¦
+Â¦   +-- composer.phar
+Â¦   +-- composer.bat
+Â¦
 +-- git/
-¦   +-- bin/
-¦   ¦   +-- git.exe
-¦   ¦   +-- (...)
-¦   +-- (...)
-¦
+Â¦   +-- bin/
+Â¦   Â¦   +-- git.exe
+Â¦   Â¦   +-- (...)
+Â¦   +-- (...)
+Â¦
 +-- php/
     +-- php.exe
     +-- (...)
