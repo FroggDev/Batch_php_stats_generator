@@ -1,8 +1,8 @@
 # binaries
-bin/**/*
+bin/*/*
 
 # misc tools
-tool/**/*
+tool/*/*
 
 # composer vendors
 vendor/*

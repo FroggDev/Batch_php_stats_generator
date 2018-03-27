@@ -1,0 +1,14 @@
+PHP for windows & VC
+https://windows.php.net/download
+
+GIT portable edition for Windows
+https://git-scm.com/download/win
+
+Composer download
+https://getcomposer.org/download/
+
+Ruby download (for scss)
+https://rubyinstaller.org/downloads/
+
+node download (with npm for uglyfy)
+https://nodejs.org/en/download/current/
