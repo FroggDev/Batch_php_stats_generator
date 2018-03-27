@@ -1,6 +1,10 @@
 PHP for windows & VC
 https://windows.php.net/download
 
+PHP configuration if trouble with Curl & https
+https://stackoverflow.com/questions/29822686/curl-error-60-ssl-certificate-unable-to-get-local-issuer-certificate
+https://curl.haxx.se/docs/caextract.html
+
 GIT portable edition for Windows
 https://git-scm.com/download/win
 
@@ -12,3 +16,9 @@ https://rubyinstaller.org/downloads/
 
 node download (with npm for uglyfy)
 https://nodejs.org/en/download/current/
+
+jav for .jar
+http://www.oracle.com/technetwork/java/javase/downloads
+
+Chrome driver for BeHat
+https://sites.google.com/a/chromium.org/chromedriver/downloads
