@@ -31,7 +31,7 @@ REM -------------
 REM will add to path the list in argument
 
 REM Default List if nothing set as arguments (separated with space)
-set DefaultList=C:\dev\bin\git\cmd C:\dev\bin\php C:\dev\bin\composer C:\dev\bin\ruby\bin C:\dev\bin\node C:\dev\bin\java\bin C:\dev\bin\chromedriver
+set DefaultList=C:\dev\bin\git\cmd C:\dev\bin\php C:\dev\bin\composer C:\dev\bin\ruby\bin C:\dev\bin\node C:\dev\bin\java\bin C:\dev\bin\chromedriver C:\dev\bin\graphiz\bin
 
 REM GLOBAL CONFIG VARS
 REM List of folders to add to the PATH (Array separated by spaces !)
@@ -74,7 +74,7 @@ set /A Count=0
 		REM removing path if already exist to not add it multiple times
 		call set "originalPath=%%originalPath:%%a;=%%"
 		
-		echo %%a added to the PATH !
+		echo Successfully added %%a to the PATH 
 		set /A Count+=1 
 	) ELSE (
 		echo %%a not found, cannot be added to the PATH, skipping...

@@ -22,3 +22,6 @@ http://www.oracle.com/technetwork/java/javase/downloads
 
 Chrome driver for BeHat
 https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+Graphviz for phpDocumentor
+https://www.graphviz.org/download/
