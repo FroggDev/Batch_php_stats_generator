@@ -2,3 +2,4 @@ commander
 FreeNFS
 putty
 vnc
+selenium/selenium-server-standalone.jar

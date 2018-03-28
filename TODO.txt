@@ -1,5 +1,0 @@
-Faire un script qui copie https://github.com/djoos/Symfony-coding-standard
-et l'extrait dans les F:\dev\vendor\squizlabs\php_codesniffer\src\Standards
-
-
-Ajouter la config de phpDoc avec 
