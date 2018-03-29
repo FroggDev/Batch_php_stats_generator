@@ -53,13 +53,23 @@ bin/
 ¦   +-- (...)
 ¦
 +-- php/
-    +-- php.exe
-    +-- (...)
-    +-- ext/
-        +-- php_xdebug.dll
-        +-- (...)
+¦   +-- php.exe
+¦   +-- (...)
+¦   +-- ext/
+¦       +-- php_xdebug.dll
+¦       +-- (...)
+¦
++-- chromedriver/
+¦   +-- chromedriver.exe
+¦
++-- java/
+    +-- bin/
+        +-- java.exe
+
 ```
-The script add2path.bat	add automatically this structure to the PATH
+All binaries links are available in bin/bin_downloads.txt
+
+The script bin/add2path.bat	add automatically this structure to the PATH
 
 # Scripts as external tools
 
@@ -83,7 +93,7 @@ composer install
 - main settings : phpStorm_settings/phpSotrm_settings(windows).jar
 
 5- Manual Plugins install
-https://tool.frogg.fr/dev_tools/phpStorm_symfony
+- https://tool.frogg.fr/dev_tools/phpStorm_symfony
 
 # BONUS INSTALLATION (optional)
 
@@ -92,7 +102,13 @@ import file: phpSotrm_watchers.xml
 
 install ruby & npm : https://tool.frogg.fr/dev_tools/phpStorm_more
 
-## TODO: BeHat tools
+## BeHat tools
+
+install java & download chrome driver
+
+download selenium-server-standalone.jar to C:\dev\tool\selenium
+
+C:\dev\script\selenium\selenium.bat will start selenium server for BeHat
 
 # UPDATING
 ```
