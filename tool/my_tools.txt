@@ -1,5 +1,9 @@
-commander
-FreeNFS
-putty
-vnc
+commander/Cmder.exe
+
+FreeNFS/FreeNFS.exe
+
+putty/putty.exe
+
+vnc/vnc.exe
+
 selenium/selenium-server-standalone.jar
