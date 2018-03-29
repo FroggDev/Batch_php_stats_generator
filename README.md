@@ -60,10 +60,41 @@ bin/
         +-- (...)
 ```
 The script add2path.bat	add automatically this structure to the PATH
-		
+
 # Scripts as external tools
 
 - _cleanAll.bat	& _cleanAll.sh (cleanning symfony cache)
 - export.bat & export.sh (exporting source code statistics)
 	
 
+# INSTALLATION
+
+1- Copy project file to c:\dev
+
+2- install composer component
+```
+composer install
+```
+
+3- install missing bin 
+- PHP, Composer, Git installation : https://tool.frogg.fr/dev_tools/phpStorm_main_tool		
+		
+4- Import phpStorm settings
+main settings : phpStorm_settings/phpSotrm_settings(windows).jar
+
+5- Manual Plugins install
+https://tool.frogg.fr/dev_tools/phpStorm_symfony
+
+# BONUS INSTALLATION (optional)
+
+##watcher settings
+import file: phpSotrm_watchers.xml
+
+install ruby & npm : https://tool.frogg.fr/dev_tools/phpStorm_more
+
+## TODO: BeHat tools
+
+# UPDATING
+```
+composer update
+```
