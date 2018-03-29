@@ -87,7 +87,7 @@ https://tool.frogg.fr/dev_tools/phpStorm_symfony
 
 # BONUS INSTALLATION (optional)
 
-##watcher settings
+## watcher settings
 import file: phpSotrm_watchers.xml
 
 install ruby & npm : https://tool.frogg.fr/dev_tools/phpStorm_more
