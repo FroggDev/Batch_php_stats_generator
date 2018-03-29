@@ -80,7 +80,7 @@ composer install
 - PHP, Composer, Git installation : https://tool.frogg.fr/dev_tools/phpStorm_main_tool		
 		
 4- Import phpStorm settings
-main settings : phpStorm_settings/phpSotrm_settings(windows).jar
+- main settings : phpStorm_settings/phpSotrm_settings(windows).jar
 
 5- Manual Plugins install
 https://tool.frogg.fr/dev_tools/phpStorm_symfony
