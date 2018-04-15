@@ -6,4 +6,8 @@ IF EXIST %selenium% (
 java -jar %selenium%
 ) else (
 echo file %selenium% not found.
+REM Make a pause
+echo. 
+pause
+echo. 
 )
